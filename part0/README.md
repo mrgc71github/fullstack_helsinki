@@ -26,7 +26,7 @@ sequenceDiagram
 ```
 
 
-## 0.5 SPA Diahgram
+## 0.5 SPA Diagram
 ```mermaid
 sequenceDiagram
     autonumber
@@ -40,7 +40,7 @@ sequenceDiagram
 ```
 
 
-## 0.6 SPA Diahgram
+## 0.6 SPA Diagram
 ```mermaid
 sequenceDiagram
     autonumber
