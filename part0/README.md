@@ -36,7 +36,7 @@ sequenceDiagram
     browser->>server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/notes
     server->>browser: HTTP 200 https://studies.cs.helsinki.fi/exampleapp/spa.js
     server->>browser: HTTP 200 https://studies.cs.helsinki.fi/exampleapp/data.json
-    server->>broswer: Event Linstener spa.js
+    server->>browser: Event Linstener spa.js
 ```
 
 
